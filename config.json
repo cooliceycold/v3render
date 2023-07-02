@@ -14,15 +14,15 @@
 
     "type": "postgres",
 
-    "host": "fanny.db.elephantsql.com",
+    "host": "47.102.127.65:5433",
 
     "port": 5432,
 
-    "user": "epfksloj",
+    "user": "Zxcvbnm1234567890",
 
     "password": "s56h23jyTaKTg_PWa74T4JVmqpIWpyUw",
 
-    "name": "epfksloj",
+    "name": "dbba741b8ee7f440aabd8962730d01cbd0render",
 
     "db_file": "",
 
