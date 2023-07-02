@@ -24,7 +24,7 @@
 
     "name": "aline/aliaria2v3",
 
-    "db_file": "data\\data.db",
+    "db_file": "",
 
     "table_prefix": "x_",
 
