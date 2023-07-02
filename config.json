@@ -14,7 +14,7 @@
 
     "type": "postgres",
 
-    "host": "	fanny.db.elephantsql.com",
+    "host": "fanny.db.elephantsql.com",
 
     "port": 5432,
 
