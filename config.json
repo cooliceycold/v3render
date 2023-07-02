@@ -14,15 +14,15 @@
 
     "type": "postgres",
 
-    "host": "db.bit.io",
+    "host": "	fanny.db.elephantsql.com",
 
     "port": 5432,
 
-    "user": "aline",
+    "user": "epfksloj",
 
-    "password": "v2_3yWMY_FV8QhVFgpLX5PaAGdNz5ZnE",
+    "password": "s56h23jyTaKTg_PWa74T4JVmqpIWpyUw",
 
-    "name": "aline/aliaria2v3",
+    "name": "epfksloj",
 
     "db_file": "",
 
