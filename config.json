@@ -8,7 +8,7 @@
 
   "site_url": "",
 
-  "cdn": "https://registry.npmmirror.com/alist-web/latest/files/dist/",
+  "cdn": "https://cdn.jsdelivr.net/npm/alist-web@latest/dist/",
 
   "database": {
 
