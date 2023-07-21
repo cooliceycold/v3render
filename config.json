@@ -8,7 +8,7 @@
 
   "site_url": "",
 
-  "cdn": "https://gcore.jsdelivr.net/npm/alist-web@latest/dist/",
+  "cdn": "https://unpkg.com/browse/alist-web@3.23.0/dist/",
 
   "database": {
 
